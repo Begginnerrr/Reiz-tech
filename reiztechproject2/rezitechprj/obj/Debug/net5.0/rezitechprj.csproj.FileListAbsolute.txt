@@ -1,0 +1,16 @@
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.csproj.AssemblyReference.cache
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.AssemblyInfoInputs.cache
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.AssemblyInfo.cs
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.csproj.CoreCompileInputs.cache
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.exe
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.deps.json
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.runtimeconfig.json
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.runtimeconfig.dev.json
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.dll
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\bin\Debug\net5.0\rezitechprj.pdb
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.dll
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\refint\rezitechprj.dll
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.pdb
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\rezitechprj.genruntimeconfig.cache
+C:\Users\Nebula\Desktop\reiz2\rezitechprj\rezitechprj\obj\Debug\net5.0\ref\rezitechprj.dll
